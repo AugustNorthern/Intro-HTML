@@ -1,0 +1,17 @@
+<!Doctype html>
+<html>
+<head>
+<title>All About Me</Title>
+</head>
+<body style="background-color:#E8ACEB;">
+<main>
+<h1 style="font-family:Bradley Hand, cursive; font-size:50px;">ALL ABOUT ME</h1>
+<p style="font-family:Bradley Hand, cursive; font-size:30px;">My name August northern.
+I am 13 years old.
+I go to New Augusta North.
+My favorite color is orange.
+My fun fact is I play volleyball and run track.</p>
+<img src="https://i.ytimg.com/vi/uZHt4Wh4HS8/maxresdefault.jpg" height="300" width="750">
+</main>
+</body>
+</html>
